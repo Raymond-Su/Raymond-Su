@@ -30,3 +30,4 @@ I'm a Full-Stack Developer working in Sydney, Australia.
 -----
 
 🌿💚 Helping, not harming. Doing, not having. Building, not consuming.
+![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raymond-Su&count_private=true)
